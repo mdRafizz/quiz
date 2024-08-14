@@ -1,6 +1,6 @@
 # quiz
 
-A new Flutter project.
+It will contain previous questions and answers based on various topics. Also, here users can take tests on various subjects. This is an ongoing project.
 
 ## Getting Started
 
